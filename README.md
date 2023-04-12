@@ -7,7 +7,7 @@ This project aims to build a GARCH (Generalized Autoregressive Conditional Heter
 
 # Installation
 1- Clone the repository
-    `git clone https://github.com/<username>/<repository>.git
+    `git clone https://github.com/iAbdellrahmann/GARCH-Time-Series-Model-for-Stock-Volatility-Prediction.git
     cd <repository>`
 
 2- Create a virtual environment and activate it
