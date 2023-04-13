@@ -3,7 +3,6 @@
 
 This project aims to build a GARCH (Generalized Autoregressive Conditional Heteroscedasticity) time series model to predict stock volatility. The stock data is acquired from AlphaVantage API, cleaned, and stored in a SQLite database. The model is trained on the historical stock data and used to predict future volatility. The model predictions are served using a FastAPI web application.
 
-This project aims to build a GARCH (Generalized Autoregressive Conditional Heteroscedasticity) time series model to predict stock volatility. The stock data is acquired from AlphaVantage API, cleaned, and stored in a SQLite database. The model is trained on the historical stock data and used to predict future volatility. The model predictions are served using a FastAPI web application.
 
 # Installation
 1- Clone the repository
